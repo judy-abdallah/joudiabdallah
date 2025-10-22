@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a PhD student in Statistics, passionate about 
 
  📫 How to Reach Me
 - 📧 Email: joudi.m.abdallah@gmail.com  
-- 💬 LinkedIn:  www.linkedin.com/in/joudi-a-30095718a
+- 💬 LinkedIn:  www.linkedin.com/in/joudi-abdallah-30095718a
 
 ---
 
