@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a PhD student in Statistics, passionate about 
 ---
 
  📫 How to Reach Me
-- 📧 Email: judyabh98@gmail.com  
+- 📧 Email: joudi.m.abdallah@gmail.com  
 - 💬 LinkedIn:  www.linkedin.com/in/joudi-a-30095718a
 
 ---
@@ -45,7 +45,4 @@ My research has more dimensions than my coffee orders — and I drink a lot of c
 
 Thanks for visiting! ⭐️ Feel free to explore my repositories or say hello!
 
-<!---
-joudiabdallah/joudiabdallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
