@@ -1,5 +1,5 @@
 
- 👋 Hi there, I'm @joudiabdallah!
+ 👋 Hi there, I'm Judy!
 
 Welcome to my GitHub profile! I'm a PhD student in Statistics, passionate about data, Statistics, and turning ideas into R codes.  
 
